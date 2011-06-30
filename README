@@ -1,0 +1,1 @@
+Does the world need another packet sniffer? No, but the world does not need another Hello world project either. This project was done way way back it is good for understanding how libpcap (same library which Wireshark uses) is used and to make it little more spicy, I integrated this with Python which gives a graph of the packets that were captured.
